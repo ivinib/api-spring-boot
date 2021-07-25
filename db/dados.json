@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "60fc2f204c39bc69fdcdfc46"
+  },
+  "nome": "Joao",
+  "email": "joao@email.com",
+  "telefone": 41932535423,
+  "_class": "com.example.desafiocalcmeback.model.Dados"
+},{
+  "_id": {
+    "$oid": "60fc4ce9f5078a4aca1eeccc"
+  },
+  "nome": "Fernanda",
+  "email": "fernanda@email.com",
+  "telefone": 23996540000,
+  "_class": "com.example.desafiocalcmeback.model.Dados"
+},{
+  "_id": {
+    "$oid": "60fc4d18f5078a4aca1eeccd"
+  },
+  "nome": "Rafaela",
+  "email": "rafaela@email.com",
+  "telefone": 34998207741,
+  "_class": "com.example.desafiocalcmeback.model.Dados"
+},{
+  "_id": {
+    "$oid": "60fc4d34f5078a4aca1eecce"
+  },
+  "nome": "Fabio",
+  "email": "fabio@email.com",
+  "telefone": 44996549876,
+  "_class": "com.example.desafiocalcmeback.model.Dados"
+}]
